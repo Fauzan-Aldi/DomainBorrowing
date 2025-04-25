@@ -1,4 +1,4 @@
-# PeminjamanDomainC
+# PeminjamanDomain
 
 Peminjaman Domain adalah metode baru untuk menyembunyikan lalu lintas  menggunakan CDN. Ini pertama kali dipresentasikan di Blackhat Asia 2021 oleh [Junyu Zhou](https://twitter.com/md5_salt) dan Tianze Ding. Anda dapat menemukan slide presentasi [di sini](https://www.blackhat.com/asia-21/briefings/schedule/#domain-borrowing-catch-my-c-traffic-if-you-can-22314) dan [di sini](https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Ding-Domain-Borrowing-Catch-My-C2-Traffic-If-You-Can.pdf).
 
